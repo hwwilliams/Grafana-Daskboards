@@ -2,9 +2,9 @@
 
 Some json files for several Grafana dashboards I threw together, gathering metrics through [telegraf](https://portal.influxdata.com/downloads), as well as one powershell script that grabs cyberpower ups data, and pushing them to [InfluxDB](https://portal.influxdata.com/downloads).
 
-![Docker Details](https://i.imgur.com/WkHIu4F.png)
-
 ![Home](https://i.imgur.com/V9ykcFv.png)
+
+![Docker Details](https://i.imgur.com/0Jec6P6.png)
 
 ![Media Server Details](https://i.imgur.com/xALTB4s.png)
 
