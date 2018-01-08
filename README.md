@@ -2,15 +2,15 @@
 
 Some json files for several Grafana dashboards I threw together, gathering metrics through [telegraf](https://portal.influxdata.com/downloads), as well as one powershell script that grabs cyberpower ups data, and pushing them to [InfluxDB](https://portal.influxdata.com/downloads).
 
-[Docker Details](https://i.imgur.com/WkHIu4F.png)
+![Docker Details](https://i.imgur.com/WkHIu4F.png)
 
-[Home](https://i.imgur.com/V9ykcFv.png)
+![Home](https://i.imgur.com/V9ykcFv.png)
 
-[Media Server Details](https://i.imgur.com/xALTB4s.png)
+![Media Server Details](https://i.imgur.com/xALTB4s.png)
 
-[Plex Details](https://i.imgur.com/JO99ImW.png)
+![Plex Details](https://i.imgur.com/JO99ImW.png)
 
-[Power & Disk Usage](https://i.imgur.com/H3KZZra.png)
+![Power & Disk Usage](https://i.imgur.com/H3KZZra.png)
 
 # Cyberpower UPS powershell script
 
